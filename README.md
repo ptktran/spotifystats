@@ -14,6 +14,7 @@ spotify email added to the app since there is a user limit to the spotify api.</
 </p>
 
 # previews
+<p>some screenshots of the working app</p>
 <h2 align="center">user card</h2>
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/0e9c69ac-34e1-4b52-b96a-9646ed1a2851">
 
