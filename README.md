@@ -1,4 +1,4 @@
-# Spotify Stats!
+# spotify stats!
 a web app that generates visually appealing cards highlighting users' spotify activity including their favourite genres, songs, and artists. spotify stats is an updated version of spotify user visualizer.
 # notes
 <b>
