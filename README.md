@@ -6,9 +6,13 @@ a web app that generates visually appealing cards highlighting users' spotify ac
 spotify email added to the app since there is a user limit to the spotify api.</b> 
 <br>
 🤠 if you would like to try this out, send me a message and i can add your email :)
+
 # features
+<p>
 - see all stats summarized on a user card
 - see top tracks, artists, and genres during different time periods
+</p>
+
 # previews
 <p align="center">user card</p>
 ![screenshot3](https://github.com/ptktran/spotifystats/assets/39758539/0e9c69ac-34e1-4b52-b96a-9646ed1a2851)
