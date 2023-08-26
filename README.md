@@ -12,7 +12,6 @@ spotify email added to the app since there is a user limit to the spotify api.</
 👉 see all stats summarized on a personal card<br>
 👉 see top tracks, artists, and genres during different time periods
 </p>
-<br>
 
 # previews
 <h2 align="center">user card
@@ -32,5 +31,5 @@ spotify email added to the app since there is a user limit to the spotify api.</
 </h2>
 
 <h2 align="center">mobile devices
-<img src="https://github.com/ptktran/spotifystats/assets/39758539/0d805fd3-fbec-4303-bcf2-34d526ed9ed3">
+<h2 align="center"><img src="https://github.com/ptktran/spotifystats/assets/39758539/0d805fd3-fbec-4303-bcf2-34d526ed9ed3"></h2>
 </h2>
