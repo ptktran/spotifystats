@@ -2,17 +2,18 @@
 a web app that generates visually appealing cards highlighting users' spotify activity including their favourite genres, songs, and artists. spotify stats is an updated version of spotify user visualizer.
 # notes
 <b>
-👉 this project has been deployed, but is still in development mode. this means that it only works with those who have their
+❗ this project has been deployed, but is still in development mode. this means that it only works with those who have their
 spotify email added to the app since there is a user limit to the spotify api.</b> 
 <br>
 🤠 if you would like to try this out, send me a message and i can add your email :)
 
 # features
 <p>
-- see all stats summarized on a user card
-- see top tracks, artists, and genres during different time periods
+👉 see all stats summarized on a personal card<br>
+👉 see top tracks, artists, and genres during different time periods
 </p>
 <br>
+
 # previews
 <p align="center">user card</p>
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/0e9c69ac-34e1-4b52-b96a-9646ed1a2851">
