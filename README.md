@@ -15,17 +15,22 @@ spotify email added to the app since there is a user limit to the spotify api.</
 <br>
 
 # previews
-<p align="center">user card</p>
+<h2 align="center">user card
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/0e9c69ac-34e1-4b52-b96a-9646ed1a2851">
+</h2>
 
-<p align="center">top tracks</p>
+<h2 align="center">top tracks
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/6cc8a54b-6c73-4d3f-8a97-67c0f22cd848">
+</h2>
 
-<p align="center">top artists</p>
+<h2 align="center">top artists
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/a814c162-ad00-4dac-8569-4df2d145ca73">
+</h2>
 
-<p align="center">top genres</p>
+<h2 align="center">top genres
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/27872578-5e5d-4e8f-8032-2de604dac015">
+</h2>
 
-<p align="center">mobile devices</p>
+<h2 align="center">mobile devices
 <img src="https://github.com/ptktran/spotifystats/assets/39758539/0d805fd3-fbec-4303-bcf2-34d526ed9ed3">
+</h2>
